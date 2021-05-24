@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @5355693
-- :bald_man: AKA John Lloyd
+- :bald_man: AKA John Lloyd (he/him/his)
 - 👀 I’m interested in natural history & nature conservation
 - 🌱 I’m currently learning how to use GitHub to serve a website
 - 💞️ I’m looking to collaborate on anything related to biodiversity science and natural history
